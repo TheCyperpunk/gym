@@ -1,0 +1,6 @@
+{
+  "name": "Fit loop",
+  "description": "Global gym membership platform granting access to independent partner gyms across cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
